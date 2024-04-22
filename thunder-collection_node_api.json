@@ -1,0 +1,142 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "node_api",
+    "dateExported": "2024-04-22T18:21:17.591Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "688f45a0-701e-452f-a2b4-fdf45ba0c63d",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste de atualização da task",
+            "url": "http://localhost:3000/tasks/5/update",
+            "method": "PUT",
+            "sortNum": 10000,
+            "created": "2024-04-22T17:21:12.897Z",
+            "modified": "2024-04-22T18:15:45.529Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Finalizar o Front-End do GP Oil Map\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "c4571a10-f577-47f7-9bd8-3a63f4ba94a5",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste de entrada",
+            "url": "http://localhost:3000/tasks/4",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-04-22T18:04:51.849Z",
+            "modified": "2024-04-22T18:08:05.396Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Parabéns pelo ótimo desempenho em servidores\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "5356b82a-f42b-447e-9f06-51502edc0789",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste de todas as tasks",
+            "url": "http://localhost:3000/",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-04-22T18:05:51.856Z",
+            "modified": "2024-04-22T18:05:51.856Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Parabéns pelo ótimo desempenho em servidores\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "8634407a-651d-4b30-a233-330f338edbc1",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste de task por id",
+            "url": "http://localhost:3000/",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-04-22T18:07:02.703Z",
+            "modified": "2024-04-22T18:07:02.703Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Parabéns pelo ótimo desempenho em servidores\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "8ba46ba1-c679-4317-b78c-75ee8e521474",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste atualizar status da task",
+            "url": "http://localhost:3000/tasks/8/status/atualizado",
+            "method": "PUT",
+            "sortNum": 50000,
+            "created": "2024-04-22T18:08:23.831Z",
+            "modified": "2024-04-22T18:10:14.919Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Parabéns pelo ótimo desempenho em servidores\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "b334c22e-e38e-4832-81f5-b6bb96629778",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste deletar task",
+            "url": "http://localhost:3000/tasks/7/delete",
+            "method": "DELETE",
+            "sortNum": 60000,
+            "created": "2024-04-22T18:10:33.599Z",
+            "modified": "2024-04-22T18:11:43.296Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Parabéns pelo ótimo desempenho em servidores\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "f34f8486-ca74-4bd0-b5cb-3bc733a462e4",
+            "colId": "c7bde95f-1936-4d40-8148-340f792f5d55",
+            "containerId": "",
+            "name": "teste inserir task",
+            "url": "http://localhost:3000/tasks/create",
+            "method": "POST",
+            "sortNum": 70000,
+            "created": "2024-04-22T18:11:55.200Z",
+            "modified": "2024-04-22T18:14:03.443Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"task\": \"Apostar no Tigrinho até o último real\",\n  \"status\": \"Em andamento\"\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
