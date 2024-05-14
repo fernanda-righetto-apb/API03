@@ -139,3 +139,46 @@ Botão Switch Campos não está aparecendo nenhum campo, ou ícone que indique o
 Na filtragem - se colocar a opção mar, aparece o poço, e se após colocar a opção terra, continua aparecendo o poço no mar
 
 Os elementos selecionados - ainda não aparece a quantidade selecionada pelos botão switch
+
+Informações Elementos
+
+Campos
+
+       Campo Grande (nome do campo no centro)
+Número do contrato - 48000.003737/97-16
+Operador do Contrato - Petróleo Brasileiro S.A.
+Estado - Espírito Santo
+Bacia - Espírito Santo
+Localização - TERRA 
+Fluído principal - ÓLEO
+Stiuação - Produção
+Descoberta - 14/05/1975
+Início da Produção - 31/08/1975
+Previsão de Término de Produção - 
+Data de atualização dados
+
+
+Poços
+	1-Shel-35A-RJS(nome do poço no centro)
+Operador
+Titularidade
+Categoria
+Tipo
+Estado
+Nome Bloco
+Situação
+Data início
+Data término
+Data conclusão
+Data de atualização dados
+
+Blocos Exploratórios
+Nome do bloco(no centro também) PAR-T-215
+Bacia - Paraná
+Operador - Eneva S.A
+Data de atualização dados
+
+Bacia
+nome da bacia(no centro) Paraná
+Situação - Terrestre
+Data de atualização dados -
