@@ -182,3 +182,14 @@ Bacia
 nome da bacia(no centro) Paraná
 Situação - Terrestre
 Data de atualização dados -
+
+.icone-bacia{
+
+    display: none;
+    filter: invert(15%) sepia(60%) saturate(4526%) hue-rotate(226deg) brightness(98%) contrast(124%);
+    /* filter: invert(93%) sepia(13%) saturate(286%) hue-rotate(69deg) brightness(103%) contrast(95%); - CAMPOS */
+}
+
+#bacia-do-parana{
+    filter: invert(96%) sepia(8%) saturate(2082%) hue-rotate(317deg) brightness(104%) contrast(92%);
+}
